@@ -1,0 +1,17 @@
+p {
+  background-color:pink;
+  font-family: verdana, DejaVu Sans, sans-serif;
+}
+.myDiv {
+  color: blue;
+  font-size: 36px;
+}
+#para3 {
+  font-size: 24px;
+}
+
+.myDiv2 {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
